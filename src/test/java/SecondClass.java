@@ -3,6 +3,9 @@ public class SecondClass {
         String name = "Yoonjin";
         System.out.println(name);
         System.out.println("Yerim");
+                System.out.println("I am working until 5");
+        System.out.println("I am working until 5");
+
         
     }
 }
