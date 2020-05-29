@@ -7,6 +7,7 @@ public class SecondClass {
         System.out.println("miss Yoonjin");
         System.out.println("Yerim the second");
         System.out.println("Only YIM");
+        System.out.println("One day....");
 
         
     }
