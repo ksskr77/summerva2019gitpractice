@@ -3,6 +3,8 @@ public class SecondClass {
         String name = "Yoonjin";
         System.out.println("miss Yoonjin");
         System.out.println("Only Yoonjin");
+        System.out.println("MISS YOU");
+
 
         
     }
