@@ -4,6 +4,8 @@ public class SecondClass {
         System.out.println("miss Yoonjin");
         System.out.println("Only Yoonjin");
         System.out.println("MISS YOU");
+                System.out.println("MISS YOU");
+
 
 
         
